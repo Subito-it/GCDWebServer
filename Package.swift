@@ -29,7 +29,7 @@ let package = Package(
                 "Tests",
                 "tvOS",
                 "Package.swift",
-                "GCDWebServer.podspec",
+                "GCDWebServer-SBTUITestTunnel.podspec",
                 "Run-Tests.sh",
                 "format-source.sh",
                 "README.md",
